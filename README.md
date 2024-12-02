@@ -1,5 +1,5 @@
-# Coffe_Shop_Sales
-![Coffe_Shop_Sales](Screenshot (67).png "Coffe Shop Sales Overview")
+# Coffee_Shop_Sales
+![Coffe_Shop_Sales](Coffee_Dashboard.png "Coffee Shop Sales Overview")
 
 🚀 Unveiling Insights from CoffeeShop Sales Data with Microsoft Excel
 
