@@ -1,3 +1,6 @@
+# Coffe_Shop_Sales
+![Coffe_Shop_Sales](Screenshot(67).png "Coffe Shop Sales Overview")
+
 🚀 Unveiling Insights from CoffeeShop Sales Data with Microsoft Excel
 
 I'm excited to share my latest project where I delved into CoffeeShop Sales data to uncover key business insights. Here's a snapshot of what I achieved:
